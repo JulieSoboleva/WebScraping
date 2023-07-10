@@ -1,0 +1,20 @@
+[
+    {
+        "company": "BigDataDuck",
+        "city": "Москва",
+        "salary": "от 3 000 до 4 000 $ на руки",
+        "link": "https://hh.ru/vacancy/83182445?from=vacancy_search_list&query=python"
+    },
+    {
+        "company": "ООО ГравиЛинк",
+        "city": "Санкт-Петербург",
+        "salary": "от 1 000 до 2 000 $ до вычета налогов",
+        "link": "https://hh.ru/vacancy/76086723?from=vacancy_search_list&query=python"
+    },
+    {
+        "company": "BAITS LLC",
+        "city": "Москва",
+        "salary": "от 2 500 до 3 500 $ на руки",
+        "link": "https://hh.ru/vacancy/82900806?from=vacancy_search_list&query=python"
+    }
+]
